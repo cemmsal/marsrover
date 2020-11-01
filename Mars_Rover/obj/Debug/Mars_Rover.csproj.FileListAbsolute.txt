@@ -1,0 +1,7 @@
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe.config
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.exe
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\bin\Debug\Mars_Rover.pdb
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.csprojAssemblyReference.cache
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.csproj.CoreCompileInputs.cache
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.exe
+C:\Users\cem.sal.PRONET\source\repos\Mars_Rover\Mars_Rover\obj\Debug\Mars_Rover.pdb
